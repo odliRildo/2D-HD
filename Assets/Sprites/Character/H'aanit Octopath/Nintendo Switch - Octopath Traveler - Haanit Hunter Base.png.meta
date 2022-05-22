@@ -1,0 +1,6602 @@
+fileFormatVersion: 2
+guid: 5f3127aa793c38042a7f6c2b3dbdd3c3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 477
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ac01494924a4b47b31ceb887ba6334
+      internalID: -2057200018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 477
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c90114255693f4db0d248c65478e77
+      internalID: 1371103614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 477
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5844fc1a35e0654d8ace90d2065245c
+      internalID: 2127968373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 480
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee74bec8035e2c0498ff166a3544f1d2
+      internalID: -619344920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb67e1463d4e92499318661e5f5abc4
+      internalID: 1001483648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 477
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7265b47286cf94285da39d3044ce55
+      internalID: -33740863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 477
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da27d79067bd154e9d94ddc422838a4
+      internalID: -774445319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 477
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2e3b718cd4ee04a9ee8ae2464674a7
+      internalID: 269795171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 480
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5e3c34f58743b4d903a0173107f05f
+      internalID: 1696370318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ac8bf5551c1174abbf42e05f6a24a1
+      internalID: -1600149187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b5e8cd055d43d4b94e308327d4096a
+      internalID: -917047343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 478
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e3cadeaeab55144aaf76109faa0089
+      internalID: 1469645854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 481
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32030e1d27ce4c42a97c99fb2de9d08
+      internalID: 1294500584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 481
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2637f2409df808046a5b41944fe3a24f
+      internalID: -770685927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 482
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7529a8ae788645e468bc419b517bbde6
+      internalID: -1680559961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 482
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcd6c354cbf95745900236ab35e4e22
+      internalID: 533091915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_16
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 481
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317ddb4bda5c80648b5fe1b4024e76c6
+      internalID: -651290238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_17
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 479
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26328060e988ba748bb9e6c16eaaadaa
+      internalID: -1874088358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_18
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 477
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dc8c5066ee6a3499deb7f534451018
+      internalID: 1304844670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 478
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c863007424b554a47b89cd6abb8ee50a
+      internalID: 1374275718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_20
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 481
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb346d0f0ee2e684b9a208459dd6b6de
+      internalID: -1350340894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_21
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 481
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89908a08744c9ac408b920f4c1570c98
+      internalID: 159848907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 482
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20a3fa580a3c60468098aa611ce63e0
+      internalID: 2021114437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 447
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530b9a2b5c9610f499fd2f72357f7ecb
+      internalID: 1695543562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 446
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca2e56ff43aec4469fed5f7c511344d
+      internalID: -1362812789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 444
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9b5cd6c12a65b438cc2310aba5142d
+      internalID: 1434234292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 445
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05ee4b8fb0cc2145a62056c1aef9e18
+      internalID: 1598894302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 445
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8dc208b1ccfa14a996831f8d4ab12a
+      internalID: 2141096532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169642b8aa859824caeb1fc76d59973a
+      internalID: -1569795171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2075d045bffd9184481da0e421c0db7c
+      internalID: -614627641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6e1be270428f6418a046a13341fb91
+      internalID: 2090843871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22060ef9ffb4df14c82bc6367f3819c3
+      internalID: -1162873506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640f7c1098ffa4e468d70398f5309fbf
+      internalID: 2045349734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 450
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa9923717bb26845af4d9c3fbd417c3
+      internalID: -1339341551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_34
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 442
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aa99c21245fab4897dde732e093fcc
+      internalID: 2050071500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 442
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa19566e18ea6d4dafb3b50a2bc9dea
+      internalID: -946712760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_36
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 449
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90955277428ecb4498c5a7073660392b
+      internalID: -1962245657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_37
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 449
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc88e6381a643a4b9640e49695e591d
+      internalID: 1279395926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_38
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 448
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33d7e378fe986c4a9e24d516e7ec742
+      internalID: 878617015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_39
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 448
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbd87b574430cc4592d58586478c50b
+      internalID: -250785516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_40
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 449
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352ea0c165848f043991f3b6a8c44df1
+      internalID: -1453589780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 449
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ff314d87c2c9a469232afd854a8960
+      internalID: 299835937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 448
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2493df7ed6e190147b5862b7f756580f
+      internalID: -1016158029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 448
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7784f185985b604bb9e86552660ec24
+      internalID: 1194628130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_44
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 442
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb409d5abf8d2784386a2ecda8c1d4e3
+      internalID: 755620322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_45
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 443
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0f14d24da2d434cb54ef847cd3663e
+      internalID: -1152049540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_46
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 444
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d04bbd938ac4348b42ce34b72baace
+      internalID: -1177518948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a45dcfbe60449429106e20f49ab7ea
+      internalID: 795258137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb63ac795808a33458709d468c11ce39
+      internalID: -579479805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7318b2834ce344581e0d622e5d58a1
+      internalID: -1084383051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 408
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dd5e6727cdd7a4f86c7d6ed7b935a2
+      internalID: 1218652890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_51
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 407
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be77c82e6b10294b96264cd3c5d6fb5
+      internalID: 723852785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_52
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 408
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5eb3e742cf5cd4fa405984ffa04a73
+      internalID: -809031115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 409
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382543a6a02aabb488a1710af93943c4
+      internalID: -120318638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_54
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b229fa1ac1556a04b9d6453bfe21b932
+      internalID: 1851256691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_55
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f1831f76e030b49a5062dd80f55e32
+      internalID: 563357368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 409
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1a5d994a5bb944c8688e83f61c772b
+      internalID: 1954250420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 408
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d9564d2f9e02f46a66c3d5de428348
+      internalID: -1453361302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_58
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 408
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35336ef6dad124040ac95d0acaf2bd95
+      internalID: 865901286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_59
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 399
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe7498196ba336459d05c87b6b5730e
+      internalID: 1341111977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_60
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 411
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e885ba305118a469ae634315e16528
+      internalID: -690944828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_61
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 412
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fd492e702e3814b88c43910229d49d
+      internalID: -1915875446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_62
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 412
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f78e76335f8784599f8e978aa9fc0a
+      internalID: 988027803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_63
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 411
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c179107655d24d64ca57b73b0f865459
+      internalID: -558409403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_64
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 409
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245692c061264db4b954ef86eab04576
+      internalID: -697946443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ff38d8379129343a88ac534b1e1c96
+      internalID: 326402504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 356
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df850622cc835844fad0ec82611e583c
+      internalID: -1522740816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_67
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 368
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82088aab3248b2244a51031022ee6e93
+      internalID: -1360736211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_68
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 369
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c09dc318aaae974aab192d87818d1de
+      internalID: -1836679991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_69
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 369
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cfbc2691cc71b40af915c1b61aec32
+      internalID: -972052888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_70
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 368
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdec539d1c95dc44935334262327e5b
+      internalID: -1314513928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 366
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda86bf8107f87547b138d8d36ba6dbc
+      internalID: -1864026214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_72
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 367
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106206aaff11736409040c1c478c141f
+      internalID: 386048486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 367
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957fcd16d003e0942b94bb32bfed23ec
+      internalID: 1965848809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_74
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 364
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26bf5448a340b44abdba9d75f83484d
+      internalID: 456411309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_75
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 364
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c4db628a50c6940a0acae98474c142
+      internalID: -564662620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_76
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 364
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77a3845bc022604f882c43492b013ba
+      internalID: 404124808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_77
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 364
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f50ec5afc698241b1dec8f0816f107
+      internalID: -1748836740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_78
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 364
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05186c9b9f5afc4bb1ca0b2227790de
+      internalID: -1881192254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_79
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 364
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7ea0b97e79936458c611152dde42d5
+      internalID: -1475844344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_80
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 366
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c33cedf68a424418d5e671d4669e5e
+      internalID: -998064313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_81
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 366
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd2a3977756d0f489bb8172620f88d0
+      internalID: 1871866477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_82
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 365
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bb0111f96d876418a586c7acf18297
+      internalID: 407468353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 322
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58fb7c30d6f77e43bc26c43034b77d1
+      internalID: 1696850112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_84
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 341
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae53879aabb7c44d8cd35bbd818d891
+      internalID: -33241045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_85
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 341
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a209fecba1dfc34a8c1a8e9c52e3e5a
+      internalID: -183930482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 322
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3a3e78dafdcac448d7f3a71182e1fc
+      internalID: 446729065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_87
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 322
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943ffc68d73db3449990374f42eb377f
+      internalID: 557799641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_88
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4025cd3e1046ffa44b1bb89db9f5dc31
+      internalID: 258676442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_89
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08486f36b7b0023448e4fce3fb2eb78d
+      internalID: 647094080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_90
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163392a041345114cb7c2de498a05a7d
+      internalID: -1135915444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_91
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcda80adb210874abc2039433f02271
+      internalID: 132147177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_92
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258ba48ebfb87554bbdc98dba2d307fa
+      internalID: -1858754748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_93
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 323
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdd586a87a99a84fb02fce0662fea24
+      internalID: 1463445910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_94
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 321
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac2d122aaca42d48adf281cab36eeae
+      internalID: 58091344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_95
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 321
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6675d0a83ad44cf4cb92bc1460a1d241
+      internalID: -1911275113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_96
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4dcc52de6e117418d967a01ea99979
+      internalID: -1637609412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_97
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 321
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70e0b4809f30f1489523124dce2a630
+      internalID: 352775779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_98
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 321
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0345bb467be62f241ba3cd83a7966201
+      internalID: 1539672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_99
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c879b91a673b64cbed1e5980cec572
+      internalID: 484654115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_100
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff72376025d60478d977366919ad8c
+      internalID: -1092564714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_101
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 321
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a2703e2aa550143a9a4c61310228c6
+      internalID: -1846908609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_102
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 321
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634b8b1c90977d248843d4c6553c96f2
+      internalID: 1388530610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_103
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f51b81bfc33a741aaf38f2290ab941
+      internalID: -1460979506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_104
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 321
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9098f8866b72b084f98878e85886dc20
+      internalID: -137096547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba2975bd071c254dbff7368c03cc542
+      internalID: -1129556050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_106
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aaa1da57dad5a4485a9a4abd05abb7
+      internalID: 790607585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_107
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104551eaa6fa0a947b4db6ee48dee97a
+      internalID: -22796136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_108
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361cef05b1b77cf45806b8354b7ca37e
+      internalID: -1775246495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d064562100a0d64bbaade04fcd6bc77
+      internalID: 1152832420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_110
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d943992a560eb7b4cb2695a9c31d16ae
+      internalID: -823928916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_111
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 286
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bc2fb05b182a346ae87da05d682074
+      internalID: -98182131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_112
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 286
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d9b2f6c2b657f42b6e147d78022f97
+      internalID: 1110384905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_113
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 286
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128f17a55b69ae148b2d0e5c69b6808b
+      internalID: -631171690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_114
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 286
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521d3287244b8034089c3fe6be5a87de
+      internalID: -389907344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_115
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 286
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae979a15c72b84b4e8008489ac7499cf
+      internalID: 144690978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_116
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 286
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77680228d4fab044b9fbe4a580cb28fb
+      internalID: 1622461977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_117
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 286
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908d8029190bc194db4f059b1deaa3bd
+      internalID: 1080881348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_118
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 287
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bcc02a670373140bf00d2aeedf0832
+      internalID: -522890748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_119
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 287
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fdbeaf7d755c44fa36b1524a9418db
+      internalID: 1052562393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_120
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 287
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284203408cb556346aa5d94c945ddaf4
+      internalID: 2062979413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_121
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 287
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55cb85453c79ab49a4e5443ecff1654
+      internalID: -1835104959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_122
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 286
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7bfad298c301c4f856f6dd0885f856
+      internalID: -1748568148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_123
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 286
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245fd939b0504664a8057e0caf933b24
+      internalID: 1204623185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_124
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 286
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e5b419e72d4e341a21b63fc63182b6
+      internalID: 380839401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_125
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 286
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3145c948eb4c0e8499ab1f05a9ddc696
+      internalID: -1838832730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_126
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31285f09cce13a942a2401a49676583b
+      internalID: -1134226608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_127
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 286
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fce9106f18cd44f8a4950429626109
+      internalID: 99973698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_128
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 251
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8396c7b747765a4bbcc21bd67212ca1
+      internalID: -456343368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_129
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 251
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc584812d0aec040bb73c50b97ecab5
+      internalID: 1304301010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_130
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 269
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a3c4375ab26af449d09ffae21ea635
+      internalID: -972759665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_131
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 269
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab312f73d4e05e44f83eb9811174610e
+      internalID: 1904351517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_132
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 251
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6658f17730b9ca74789e9e2a84cace7a
+      internalID: -283695938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_133
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 251
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d61a10dd74ff124db09d2b00f919a60
+      internalID: 1155533358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_134
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 251
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72278da713c98d14f93a11eba385107b
+      internalID: 1660850947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_135
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 251
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f7a2dcd2d02df46b90c8c8a9813085
+      internalID: 1544295791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 251
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb13d5bb7e155946a7f78681499453d
+      internalID: 2048366646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_137
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 251
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cdf17f7bb5f3640be7eae9d5ed5a90
+      internalID: 168908496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_138
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9257ac4b4872b409392eb96b456b82
+      internalID: -1316847244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_139
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c61c5207a5d404a9cc9a5bcf5f47b4
+      internalID: -750446215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06661b52ada67c44680fdb7849952720
+      internalID: -1514780304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_141
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96d311d70d407d408f96b74273ae813
+      internalID: 830559210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_142
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8961aae748053e04d9558f9cc3585be8
+      internalID: 560180961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_143
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 252
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613e51de7beb10140b8fc104ca1a535b
+      internalID: -718924467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_144
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 251
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c4030e7a04d2640824459f82bef64f
+      internalID: -1522923486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_145
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 251
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3675a8b154ac6234c9f13607cf4481cb
+      internalID: 1008550258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_146
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 251
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b321ea9010907df46ae74a777532b712
+      internalID: 634271127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_147
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 251
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce5b25e6c3d2f24f90ca4059ecbb09f
+      internalID: 2118125881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_148
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 251
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48852e7cc51e7de459d8b5d872157979
+      internalID: -1045479394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_149
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 251
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bfa03f726bc034fa57eab4c1db948e
+      internalID: 1537037005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_150
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 216
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14001b1bd99fc21488897a2124fa2eac
+      internalID: -921281542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_151
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c6ff91d4edc4a479b0d9aafe1fcb61
+      internalID: 324792655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_152
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 218
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24b01b6dd400804b98972de176a76cd
+      internalID: 1230348780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_153
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 216
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171ee828e876a7741a8d389303fe7d89
+      internalID: 143032462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_154
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323f412688384a648bbda0a381773fdb
+      internalID: -2136954137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_155
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 218
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb3434391b43854aa1a7a45dddb6be7
+      internalID: 1618942643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_156
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 216
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6c8cb6d1d8e7c4398ff0469ecc21bd
+      internalID: -2133253565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_157
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eafd0bbc0e905642a23baac7a737066
+      internalID: -493622535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 218
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde277a70138b1d46bab4fb675c6c4ec
+      internalID: -1148674267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_159
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 216
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85400cdb512606949b76794baf53dd02
+      internalID: 2142096650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_160
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6f28f946cb8e6498259db6a5ee93af
+      internalID: 964345522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_161
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 218
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e3904396fbc4d4daf0b13de08708e3
+      internalID: -221717452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_162
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 216
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa122a62394f2c8478d26d9086ed1e57
+      internalID: -1030404445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_163
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052ee6a7858a0bb4e88da2afb3ae18da
+      internalID: 573188565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_164
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e07006416f52d4e8da1a503df5f5fb
+      internalID: -646254240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_165
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 217
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8590e011305ac6d4fb422363ceaec900
+      internalID: -1700822804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_166
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f5196f89e9c1642a048b4e91bc0b6c
+      internalID: 1878677498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_167
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8095068762e1b4892975f358d107b4
+      internalID: -2121762275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_168
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 217
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d5d5b663c2a4d4ca001281e3ea3178
+      internalID: 2023705966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_169
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961342e47afa0564796b8c78b700b505
+      internalID: 1247489602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_170
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ece34da395b644d9e3b1e9b5f26acb
+      internalID: -84198442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_171
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 217
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac9f9aad32b81f4a97fa55d59df40f6
+      internalID: 167063511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_172
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 219
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd4965bb4d52594585cc5cb71137366
+      internalID: -835299468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_173
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 219
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7486df04a816cda448e55b58fc78b57f
+      internalID: 2093849802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_174
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 217
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d4657c8d5a20e48be574ed293a6ee9
+      internalID: -222280510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_175
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 216
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff470a1e7441084bbd85fbe79a79b9e
+      internalID: 1407178197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_176
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 181
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4042caacb5a855b45a5438532f18ab81
+      internalID: -504531652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_177
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 180
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1608f7372304bc47ac78de357e1dece
+      internalID: -1108163669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 182
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94253fa324b77545afbbd358624a3a4
+      internalID: 1248314192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_179
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 182
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20d985053b0b66469365197bd6eed3a
+      internalID: -631542138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_180
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 181
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999551651be5f52448907642ec20bd38
+      internalID: 1648692398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_181
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 181
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca815ff46237fd42b7b2beda4d76532
+      internalID: 1678851046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_182
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 181
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0024207577086b740bf019c2c2ccb6c2
+      internalID: 2069172307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_183
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 180
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bf0a958827e0e408d4b9fa974d156b
+      internalID: 76877981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 182
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9771c2957ad315642a5f2b0ec7585bb5
+      internalID: 546508068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_185
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 182
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc47f358bd7fc749a63eb424a39d050
+      internalID: -455625343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_186
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 181
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b7b9188e2af7b42a4b097c14b669fb
+      internalID: -1890163143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_187
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 181
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00859e60f2069644afb74e90a2dc8d1
+      internalID: -1142776958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_188
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 181
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bee12e6f1fb6b418503bbe5aaf4560
+      internalID: -1655350610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_189
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 180
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726be5a2346edd04b9cc64c990ef61e6
+      internalID: -2923538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_190
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 182
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531949fd1d7cb4f4c88c4b22d61dfdf4
+      internalID: -375190127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_191
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 182
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623b07f71afcfe145b34da7e34cf8aeb
+      internalID: -1415788803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_192
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 181
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e28b31c79c1af4a8f135c65e9cda6a
+      internalID: 1433400868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_193
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 181
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a509019a2e31940b1a9c3c17c2fd29
+      internalID: -113826739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_194
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 181
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87529b5ebc878647b0a4a08ef9158ef
+      internalID: -1945024964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_195
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 180
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545824944e861bf4ca4c5ca6de934936
+      internalID: -84940732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_196
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 182
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfe112da353017418bc2fec85339ab9
+      internalID: 477799857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_197
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38c0d5e60c79c944b6efecc191bf2d6
+      internalID: -1833582079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_198
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 145
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9039f37c77b844c9fdf6cc6951df95
+      internalID: -1681473310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_199
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2ee30a769f3b64a989b1c3c093b12d
+      internalID: 228370171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 146
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa10eb71711bff46b3f1e598e13e1f0
+      internalID: -1798964393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_201
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 144
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e58297fa681b0847823dc0a578cbdec
+      internalID: -1827730252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_202
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05bd7e28df24f54ab878a88ca981317
+      internalID: 2016646029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_203
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 146
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676c5c8fbb699134dbd5975ee2982a69
+      internalID: -1323908446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_204
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 144
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59213f86ca9256541aa60b79dbd99516
+      internalID: -35121691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_205
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e16046bbfe11f343828a5208b759d1f
+      internalID: 1335979150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_206
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 146
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5eaf3234aeec446bb7dfdfb5821836
+      internalID: -596529587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_207
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 144
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b029ea09bc71b0445b2ad4deb36cd433
+      internalID: -1030381578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_208
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2dfa91c4fcd0747885c4907c72426e
+      internalID: 1944592049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_209
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 146
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89dd87c3cea5f14589478b2d7f840cc
+      internalID: 1735094681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_210
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 144
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a02dbaaed745e47ad6c3ed5f1b436a
+      internalID: -1353453502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_211
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a7c2c1ae116724683a7b37fad5b71b
+      internalID: 865119803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_212
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d2657589a1fd84b8dd5df69d2ba16c
+      internalID: -1412510920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_213
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 145
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b9cb84bb7c2ea4dadae32bd65d5ad7
+      internalID: -1599596340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_214
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c69cf9e1dc564da68e1136b3279dc
+      internalID: 1237097984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_215
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2552326ca5886e4c98bcc02a3a7e801
+      internalID: 1222249513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_216
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 145
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6878693fc428a4f94e957221a86cc9
+      internalID: 1888985572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_217
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6ad2caf6f0cb84eaeae3c9aeb8d2c3
+      internalID: 758230355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_218
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a48e2c4892e1944188bcf220725530a
+      internalID: 860837082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_219
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 145
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b903ecf2e1977534d99376334e6a0397
+      internalID: 1348725492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_220
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 147
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42de152f6a672514ca4304406701b205
+      internalID: 257531992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_221
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 147
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32193a12414c8704ea34c5c10fa85e41
+      internalID: -1158405067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_222
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 145
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeccedf4f3fd1145a43f3d23e93a595
+      internalID: -1674489068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_223
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 109
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c8b4283ac09b443a7ce4314e1758d4
+      internalID: -788349094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_224
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 109
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d4fae1c32dcb24aa4d938fc1ecf74e
+      internalID: -1580025118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_225
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 108
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b12138c3803bf14f80ae9c83672342a
+      internalID: -302619001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_226
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 110
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6994e6dd269bc4783b4b25604d1a88
+      internalID: 1236880124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_227
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 110
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6e07e7713b3c84aa60e9fe99862caf
+      internalID: 1657900140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_228
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 109
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8133917e4c3f05441bdb4ae91613b1c3
+      internalID: 371217592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_229
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 109
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c58d102db994784cb0a0b263958f0d1
+      internalID: 1278471484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_230
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 109
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88728e019faa7cb4e8c104f78cc58276
+      internalID: -715513601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_231
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 108
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f65d76ffae3da24583c20be16a652d8
+      internalID: 630609687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_232
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 110
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c274d0014c4274a9d97b89d3010df1
+      internalID: 1079685669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_233
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 110
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89b8600a8761a4594f6f579d72d306
+      internalID: -1538638693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_234
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 109
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c5f286335f73649a22660cbf0ac443
+      internalID: -2076786056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_235
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 109
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a0bff595f77ad40a215606cd834b1a
+      internalID: -1500606960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_236
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 109
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8fd3fc34994394fbf3ab930c6dd7f1
+      internalID: 182952371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_237
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 108
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64024a1d40f0ed24ba6dd3bb1564accd
+      internalID: -25136316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_238
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 110
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c2ea810befc6b4c82c0a86dd43cb36
+      internalID: 1806369110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_239
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 110
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ea23071ce33c640844045540bff450
+      internalID: -1050640328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_240
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 109
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcffd06a329c204d8d5908f5f55587c
+      internalID: 479859119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_241
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 109
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd896eb0c84646440a9e69194715df13
+      internalID: -276745441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_242
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 109
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23a4916f21c4df4f8f99093aab35f65
+      internalID: 2095473860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_243
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 108
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cc3cd42300f404a87ffe1214ccfc0d
+      internalID: 1421773415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_244
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a177dd6501aa95343b6714d6fb3b330f
+      internalID: 940839402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_245
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 74
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11c56dd8e88f344b8d8f1b7f92c4215
+      internalID: -592377242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_246
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 73
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf787e48571bde5449b0fb4cb0f34801
+      internalID: -1476950443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_247
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d5797bfeb7d784497160fde0ffd5c0
+      internalID: -1698540416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_248
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941471cb53670f545b0d9f91d3a46fe1
+      internalID: 999258764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_249
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2261642ea596e5f4da02caa1ce7b864f
+      internalID: -1314760699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_250
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921b02e4c429eef4eab0d47eb1aa222b
+      internalID: 1205019060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_251
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523acecdb7c024348bdff5f524336fcd
+      internalID: -843449184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_252
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc8d0d0b3f25614492c71928a5d04cd
+      internalID: 55966549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_253
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54c0e964f07050418b39f8195765f2e
+      internalID: 58570070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_254
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db156898bc2d254fabe873ab3ddca65
+      internalID: 2028830262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_255
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69926eb9e5823542a45d253f9bf9021
+      internalID: 1340352008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_256
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e75d6e2a15a75c4eb84e28c3dd79138
+      internalID: 746466378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_257
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d15bc6269d4584696696c4c52c8a19
+      internalID: -1619794067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_258
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c649a4b3b0ffc8f46bd531eb967546c4
+      internalID: 1569578224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_259
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a9b939098864f489a6d7dd9928cc17
+      internalID: -1123734025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_260
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1021e712733568048993eae1c94c39da
+      internalID: 96662398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_261
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc0bb5c4426f334f81d27b1885ac24c
+      internalID: -290274201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_262
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a917e62867b9049418ce704c5aaa130f
+      internalID: 1917701876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_263
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 73
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc68e615ce0b41a4689f393415d8ab7b
+      internalID: 345307311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_264
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25e35839fdeff940ae5bffe60ac0e2e
+      internalID: -728148074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_265
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca363c176caa648baf7d58b26dd854
+      internalID: -126958389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_266
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb5a2727d1236345a16b8d26981887d
+      internalID: 1034904261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_267
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 73
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef091abc016a556409227990a7adb8bd
+      internalID: -996261524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_268
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d11115b97a16f4badc6f65a7bc96cf
+      internalID: -1486821356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_269
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 73
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b75ca425ca66742ad06ee229275d5c
+      internalID: 362271520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_270
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f097826677c284885763ec387ef217
+      internalID: 1650901934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_271
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263b25ac2ab5ec546a41ce3bf71ccd1d
+      internalID: 295116857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_272
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4149ce2c76dbeab4cb82d1021ad407fe
+      internalID: 1942547422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_273
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc9678390074ad42a121ec6b10caabc
+      internalID: -2008219620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_274
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad992a39e7a43e47aff3f9214f06ef4
+      internalID: 913193097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_275
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7267be151b155ab478c5b7472d6b8cc8
+      internalID: -1716608173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_276
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 39
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e522ec40a313848a2305da708b61c8
+      internalID: -989934128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_277
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0845377a3861e0e4584b900cc24a9cae
+      internalID: -1038644074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_278
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee15f4872e298ba4686a12310c0dc850
+      internalID: 504614586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_279
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 39
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ac2061ad253cc41a6b1575c74f0d1c
+      internalID: 128585887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_280
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c8f63a90b2c5c41809f01dc8288457
+      internalID: -357469050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_281
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a217d6215b4d44d9a520eb0dbb84cd
+      internalID: -650759859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_282
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae701de05d4fe4e42931fabade87262c
+      internalID: 2118444392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_283
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0c2e1beb1140d4ead1c7d2980174c5
+      internalID: -1663884508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_284
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dadcbb1874d0e46a1ad3d01684c337
+      internalID: 1745396494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_285
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8b5fe77a9f7824d94fde46aa003d73
+      internalID: 547070074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_286
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe617db7ba6bf7245a8a600929820372
+      internalID: -1844621445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_287
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 38
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0b1ef16f2b4ef4699f08c2ab7858f5
+      internalID: 2008949802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_288
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 39
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a616409f8378054d9ecc46fc5f089fe
+      internalID: -1464597209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_289
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9863bd03e5ee6a64da550987c1a1c640
+      internalID: 529315846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_290
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1c6080e1bacf4595adcaf8a1afdb2
+      internalID: -1047805026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_291
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 39
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480bf6f19291e86419e06bef4a402277
+      internalID: -110789268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_292
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d9a838e015fc343a00265a9d11c003
+      internalID: 1554520657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Octopath Traveler - Haanit Hunter Base_293
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 38
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e022a9a953ed05d4c8049dd29bb74463
+      internalID: 579218070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 44a3ee36e1e643146a0fee6525bef034
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_5: -33740863
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_219: 1348725492
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_21: 159848907
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_31: -1162873506
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_98: 1539672
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_107: -22796136
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_277: -1038644074
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_137: 168908496
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_144: -1522923486
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_227: 1657900140
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_261: -290274201
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_117: 1080881348
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_248: 999258764
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_189: -2923538
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_156: -2133253565
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_139: -750446215
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_61: -1915875446
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_74: 456411309
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_249: -1314760699
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_253: 58570070
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_96: -1637609412
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_230: -715513601
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_40: -1453589780
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_217: 758230355
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_174: -222280510
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_221: -1158405067
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_240: 479859119
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_132: -283695938
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_284: 1745396494
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_241: -276745441
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_254: 2028830262
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_235: -1500606960
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_69: -972052888
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_267: -996261524
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_183: 76877981
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_271: 295116857
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_48: -579479805
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_232: 1079685669
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_71: -1864026214
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_191: -1415788803
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_125: -1838832730
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_145: 1008550258
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_207: -1030381578
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_210: -1353453502
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_133: 1155533358
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_154: -2136954137
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_179: -631542138
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_118: -522890748
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_193: -113826739
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_23: 1695543562
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_36: -1962245657
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_194: -1945024964
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_51: 723852785
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_269: 362271520
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_274: 913193097
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_75: -564662620
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_120: 2062979413
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_13: -770685927
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_129: 1304301010
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_85: -183930482
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_257: -1619794067
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_259: -1123734025
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_263: 345307311
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_258: 1569578224
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_86: 446729065
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_128: -456343368
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_291: -110789268
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_30: 2090843871
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_205: 1335979150
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_126: -1134226608
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_243: 1421773415
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_106: 790607585
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_211: 865119803
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_115: 144690978
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_166: 1878677498
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_187: -1142776958
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_200: -1798964393
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_38: 878617015
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_176: -504531652
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_28: -1569795171
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_231: 630609687
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_110: -823928916
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_268: -1486821356
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_77: -1748836740
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_65: 326402504
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_27: 2141096532
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_244: 940839402
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_247: -1698540416
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_72: 386048486
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_131: 1904351517
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_178: 1248314192
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_157: -493622535
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_292: 1554520657
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_160: 964345522
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_220: 257531992
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_233: -1538638693
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_20: -1350340894
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_57: -1453361302
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_213: -1599596340
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_165: -1700822804
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_167: -2121762275
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_184: 546508068
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_111: -98182131
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_11: 1469645854
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_283: -1663884508
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_188: -1655350610
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_195: -84940732
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_60: -690944828
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_288: -1464597209
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_81: 1871866477
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_24: -1362812789
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_102: 1388530610
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_201: -1827730252
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_199: 228370171
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_149: 1537037005
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_124: 380839401
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_186: -1890163143
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_215: 1222249513
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_216: 1888985572
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_84: -33241045
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_66: -1522740816
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_79: -1475844344
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_168: 2023705966
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_22: 2021114437
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_46: -1177518948
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_250: 1205019060
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_270: 1650901934
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_223: -788349094
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_12: 1294500584
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_242: 2095473860
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_58: 865901286
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_278: 504614586
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_147: 2118125881
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_251: -843449184
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_260: 96662398
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_91: 132147177
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_204: -35121691
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_87: 557799641
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_93: 1463445910
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_225: -302619001
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_203: -1323908446
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_163: 573188565
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_44: 755620322
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_7: 269795171
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_198: -1681473310
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_53: -120318638
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_73: 1965848809
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_47: 795258137
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_78: -1881192254
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_108: -1775246495
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_146: 634271127
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_214: 1237097984
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_209: 1735094681
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_173: 2093849802
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_212: -1412510920
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_33: -1339341551
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_127: 99973698
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_92: -1858754748
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_83: 1696850112
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_54: 1851256691
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_136: 2048366646
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_293: 579218070
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_134: 1660850947
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_256: 746466378
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_100: -1092564714
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_161: -221717452
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_109: 1152832420
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_285: 547070074
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_226: 1236880124
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_155: 1618942643
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_59: 1341111977
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_18: 1304844670
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_63: -558409403
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_246: -1476950443
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_264: -728148074
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_94: 58091344
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_104: -137096547
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_42: -1016158029
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_14: -1680559961
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_130: -972759665
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_50: 1218652890
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_180: 1648692398
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_148: -1045479394
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_222: -1674489068
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_34: 2050071500
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_121: -1835104959
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_169: 1247489602
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_175: 1407178197
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_138: -1316847244
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_177: -1108163669
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_218: 860837082
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_236: 182952371
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_88: 258676442
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_112: 1110384905
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_68: -1836679991
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_56: 1954250420
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_185: -455625343
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_45: -1152049540
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_10: -917047343
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_287: 2008949802
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_29: -614627641
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_152: 1230348780
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_272: 1942547422
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_1: 1371103614
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_280: -357469050
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_135: 1544295791
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_265: -126958389
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_114: -389907344
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_19: 1374275718
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_55: 563357368
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_35: -946712760
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_99: 484654115
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_16: -651290238
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_103: -1460979506
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_158: -1148674267
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_182: 2069172307
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_245: -592377242
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_159: 2142096650
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_70: -1314513928
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_255: 1340352008
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_62: 988027803
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_228: 371217592
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_8: 1696370318
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_142: 560180961
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_281: -650759859
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_39: -250785516
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_279: 128585887
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_172: -835299468
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_239: -1050640328
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_89: 647094080
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_162: -1030404445
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_141: 830559210
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_170: -84198442
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_9: -1600149187
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_17: -1874088358
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_15: 533091915
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_238: 1806369110
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_122: -1748568148
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_3: -619344920
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_224: -1580025118
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_26: 1598894302
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_252: 55966549
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_64: -697946443
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_97: 352775779
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_123: 1204623185
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_0: -2057200018
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_192: 1433400868
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_140: -1514780304
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_234: -2076786056
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_41: 299835937
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_290: -1047805026
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_37: 1279395926
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_208: 1944592049
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_229: 1278471484
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_76: 404124808
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_202: 2016646029
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_171: 167063511
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_32: 2045349734
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_4: 1001483648
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_101: -1846908609
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_282: 2118444392
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_275: -1716608173
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_90: -1135915444
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_151: 324792655
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_43: 1194628130
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_52: -809031115
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_286: -1844621445
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_25: 1434234292
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_95: -1911275113
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_67: -1360736211
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_181: 1678851046
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_49: -1084383051
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_2: 2127968373
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_266: 1034904261
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_190: -375190127
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_153: 143032462
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_116: 1622461977
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_113: -631171690
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_206: -596529587
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_82: 407468353
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_143: -718924467
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_164: -646254240
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_197: -1833582079
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_237: -25136316
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_80: -998064313
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_105: -1129556050
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_150: -921281542
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_289: 529315846
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_273: -2008219620
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_262: 1917701876
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_196: 477799857
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_276: -989934128
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_6: -774445319
+      Nintendo Switch - Octopath Traveler - Haanit Hunter Base_119: 1052562393
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

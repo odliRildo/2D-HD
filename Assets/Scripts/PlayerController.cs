@@ -5,26 +5,34 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
+    
+    
+    [Header("Movement")]
     public float moveSpeed = 5f;
     public Rigidbody rb;
     public PlayerInputActions playerControls;
     Vector2 moveDirection = Vector2.zero;
+    public Animator animator;
+
     private InputAction move;
     private InputAction fire;
 
-    public Animator animator;
-
-    public GameObject stepRayLower;
+    [Header("Falling")]
+    public LayerMask Groundlayer;
+    public float SphereOffset;
+    private Vector3 SphereCastPosition;
+    private Vector3 SphereForwardPosition;
+    public float downForce;
     public GameObject stepRayUpper;
-    public float stepHeight ;
-    public float stepSmooth ;
+    public GameObject stepRayLower;
+    public float stepSmooth;
 
-    public float distToGround = 1f;
-    public float togroundspeed;
+    [Header("Movement Flags")]
+    public bool isGrounded;
+    public bool goUp;
+
     private void Awake(){
         playerControls = new PlayerInputActions();
-        stepRayUpper.transform.position = new Vector3(stepRayUpper.transform.position.x,stepHeight,stepRayUpper.transform.position.z);
-
     }
 
 
@@ -57,11 +65,7 @@ public class PlayerController : MonoBehaviour
     void FixedUpdate(){
         rb.velocity = new Vector3( moveDirection.x*moveSpeed , 0, moveDirection.y*moveSpeed );
 
-        stepClimb();
-        if(!isGrounded()){
-            rb.velocity += new Vector3(0,-togroundspeed,0);
-            Debug.Log("Not Grounded");
-        }
+        groundCheck();
     }
 
     private void Fire(InputAction.CallbackContext context){
@@ -69,48 +73,41 @@ public class PlayerController : MonoBehaviour
         
     }
 
-    void stepClimb()
-    {
-         RaycastHit hitLower;
-        if (Physics.Raycast(stepRayLower.transform.position, transform.TransformDirection(Vector3.forward), out hitLower, 0.1f))
-        {
+
+    void groundCheck(){
+        RaycastHit hit;
+        SphereCastPosition = new Vector3(transform.position.x,transform.position.y+SphereOffset, transform.position.z);
+        if(Physics.SphereCast(SphereCastPosition,0.2f, -1*Vector3.up, out hit, Groundlayer)){
+            isGrounded = true;
+            
+        }
+        else{
+            isGrounded = false;
+            rb.AddForce(0,-1*downForce,0);
+        }
+        stepClimb();
+    }
+
+    void stepClimb(){
+        RaycastHit hitlower;
+
+        if(Physics.Raycast(stepRayLower.transform.position,Vector3.forward,out hitlower, 0.1f)){
             RaycastHit hitUpper;
-            if (!Physics.Raycast(stepRayUpper.transform.position, transform.TransformDirection(Vector3.forward), out hitUpper, 0.2f))
-            {
-                rb.position -= new Vector3(0f, -stepSmooth * Time.deltaTime, 0f);
-            }
-        }
-
-         RaycastHit hitLower45;
-        if (Physics.Raycast(stepRayLower.transform.position, transform.TransformDirection(1.5f,0,1), out hitLower45, 0.1f))
-        {
-
-            RaycastHit hitUpper45;
-            if (!Physics.Raycast(stepRayUpper.transform.position, transform.TransformDirection(1.5f,0,1), out hitUpper45, 0.2f))
-            {
-                rb.position -= new Vector3(0f, -stepSmooth * Time.deltaTime, 0f);
-            }
-        }
-
-        RaycastHit hitLowerMinus45;
-        if (Physics.Raycast(stepRayLower.transform.position, transform.TransformDirection(-1.5f,0,1), out hitLowerMinus45, 0.1f))
-        {
-
-            RaycastHit hitUpperMinus45;
-            if (!Physics.Raycast(stepRayUpper.transform.position, transform.TransformDirection(-1.5f,0,1), out hitUpperMinus45, 0.2f))
-            {
-                rb.position -= new Vector3(0f, -stepSmooth * Time.deltaTime, 0f);
+            if(!Physics.Raycast(stepRayUpper.transform.position, Vector3.forward, out hitUpper,0.2f)){
+                goUp = true;
+                rb.position -= new Vector3(0f,-stepSmooth,0f);
             }
         }
     }
 
-    bool isGrounded(){
-        if(Physics.Raycast(transform.position,Vector3.down, distToGround + 0.1f)){
-            return false;
-        }
-        return true;
-    }
 
+
+    void OnDrawGizmosSelected(){
+        Vector3 sph = SphereCastPosition;
+        sph.y-=1f;
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawSphere(sph,0.2f);
+    }
 
 
 }
